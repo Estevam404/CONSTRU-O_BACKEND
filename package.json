@@ -1,0 +1,23 @@
+{
+  "name": "constru-o_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estevam404/CONSTRU-O_BACKEND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estevam404/CONSTRU-O_BACKEND/issues"
+  },
+  "homepage": "https://github.com/Estevam404/CONSTRU-O_BACKEND#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
